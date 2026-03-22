@@ -3,8 +3,8 @@ class G4a < Formula
 
   desc "The reasoning layer for AI-written code"
   homepage "https://www.git4aiagents.com"
-  url "https://github.com/lcbasu/git4aiagents/archive/dd4857833b66ebb850c274019abecd19435dc817.tar.gz"
-  sha256 "817f77c07d95cf400ba8358bb4a51888ec60c18ad2fffcfb6a7e1b6c541479d3"
+  url "https://github.com/lcbasu/git4aiagents/archive/bb139229e2bea0b0beb256296083d6fddeab1de2.tar.gz"
+  sha256 "17c894e452e7a6d663f1c0aca92d069f544d2489fe6bc872957123d905097aa1"
   version "0.1.1"
   license "CC-BY-4.0"
 
