@@ -4,7 +4,7 @@ class G4a < Formula
   desc "The reasoning layer for AI-written code"
   homepage "https://www.git4aiagents.com"
   url "https://github.com/lcbasu/git4aiagents/archive/refs/tags/v0.1.4.tar.gz"
-  sha256 "f1fbec050fe5b96784fcf3f327f85a311c7611a56bf750cbc716e4dd5c4a4332"
+  sha256 "eb1e17ff45c76acd6b2a78942c4822c6de821c6cfafda0ce0e415d6ac4409ee1"
   version "0.1.4"
   license "CC-BY-4.0"
 
